@@ -30,8 +30,8 @@ Due to new considerations such as server costs, the app will be moving to a subs
 <br>
 
 ## Promo Images
-![Banner Image](http://127.0.0.1:4000/assets/Promo/gametrack-banner-text.png)
-![Hero Image](http://127.0.0.1:4000/assets/Promo/gametrack-hero.png)
+![Banner Image](https://gametrack.app/assets/Promo/gametrack-banner-text.png)
+![Hero Image](https://gametrack.app/assets/Promo/gametrack-hero.png)
 
 
 <br>
