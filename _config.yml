@@ -51,7 +51,7 @@ features                                  :
     description                           : Keep track of your progress through your backlog and rate your games when finished. Hold down on a game in your list to quickly change these.
     fontawesome_icon_name                 : star
 
-  - title                                 : Link your gaming accounts
+  - title                                 : Link Your Gaming Accounts
     description                           : Link your PSN, Xbox & Steam accounts to import your games along with trophies and achievements.
     fontawesome_icon_name                 : trophy
   
