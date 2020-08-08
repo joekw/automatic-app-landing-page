@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "BBU43KLCES.com.joekw.gametrack",
-      "paths": ["*"]
+      "paths": ["/user*", "/post*", "/game*", "/list*"]
     }
     ]
   }
